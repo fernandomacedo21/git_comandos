@@ -2,3 +2,10 @@ git --version
 git config --global user.name "nome"
 git config --global user.email "email"
 git init
+git status
+git add <nome do arquivo>
+git add .
+git commit -m <titulo do commit>
+git push
+git remote add origin <link do repositorio remoto>
+

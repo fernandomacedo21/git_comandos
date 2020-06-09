@@ -9,3 +9,6 @@ git commit -m <titulo do commit>
 git push
 git remote add origin <link do repositorio remoto>
 
+git clone <endereço do repositório remoto>
+git pull
+

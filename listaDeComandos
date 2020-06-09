@@ -12,5 +12,4 @@ git remote add origin <link do repositorio remoto>
 git clone <endereço do repositório remoto>
 git pull
 git checkout <nome da branch>
-
-
+git branch <nome da branch>
